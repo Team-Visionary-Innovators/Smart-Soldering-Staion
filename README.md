@@ -37,34 +37,43 @@ The system block diagram illustrates the main components and their interactions 
 The schematic diagram provides a detailed view of the electrical connections and components used in the soldering station.
 
 ## PCB Layout
-
 ### DC PCB
-#### Top Layer
-<img src="images/top-layer.png" alt="DC-PCB" width="300"/>
-#### Bottom Layer
-<img src="images/bottom-layer.png" alt="AC-PCB" width="300"/>
+<table>
+  <tr>
+    Top Layer
+    <td><img src="images/top-layer.png" alt="DC-PCB" width="400"/></td>
+    <td><img src="images/bottom-layer.png" alt="AC-PCB" width="400"/></td>
+  </tr>
+</table>
 
 ### AC PCB
-#### Top Layer
-<img src="images/toplayer.png" alt="DC-PCB" width="300"/>
-#### Bottom Layer
-<img src="images/bottom-layer (2).png" alt="AC-PCB" width="300"/>
+<table>
+  <tr>
+    Top Layer
+    <td><img src="images/toplayer.png" alt="DC-PCB" width="400"/></td>
+    <td><img src="images/bottom-layer (2).png" alt="AC-PCB" width="400"/></td>
+  </tr>
+</table>
 
 
 ### 3D View
-### DC PCB
-<img src="images/3Dview.png" alt="AC-PCB" width="400"/>
-### AC PCB
-<img src="images/3Dvieac.png" alt="AC-PCB" width="400"/>
+<table>
+  <tr>
+    Top Layer
+    <td><img src="images/3Dview.png" alt="AC-PCB" width="500"/></td>
+    <td><img src="images/3Dvieac.png" alt="AC-PCB" width="400"/></td>
+  </tr>
+</table>
 The PCB layout shows the placement of components on the board. The design optimizes space and ensures proper heat dissipation.
 
 ## Printed PCB
-
-### DC PCB
-<img src="images/printed-pcb-dc.jpg" alt="DC-PCB" width="300"/>
-
-### AC-PCB
-<img src="images/printed-pcb-ac.jpg" alt="AC-PCB" width="300"/>
+<table>
+  <tr>
+    Top Layer
+    <td><img src="images/printed-pcb-dc.jpg" alt="DC-PCB" width="300"/></td>
+    <td><img src="images/printed-pcb-ac.jpg" alt="AC-PCB" width="300"/></td>
+  </tr>
+</table>
 
 ## Component List
 - **Microcontroller:** ATmega328P
